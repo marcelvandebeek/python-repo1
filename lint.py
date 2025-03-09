@@ -1,4 +1,3 @@
-# pylint: diable=missing-module-docstring
 import sys
 from pylint import lint
 THESHOLD = 9
